@@ -86,7 +86,7 @@ const AddPlayerModal = ({ open, setOpen, players, setPlayers }: Props) => {
             className=" text-white  hover:bg-[#18181B] "
             size="md"
             variant="solid"
-            sx={{ backgroundColorcolor: "#18181B" }}
+            sx={{ backgroundColor: "#18181B" }}
             onClick={handleAddPlayer}
           >
             Add player

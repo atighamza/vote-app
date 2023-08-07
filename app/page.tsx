@@ -38,7 +38,7 @@ export default function Home() {
             className=" text-white "
             size="medium"
             variant="contained"
-            sx={{ backgroundColorcolor: "#18181B" }}
+            sx={{ backgroundColor: "#18181B" }}
             onClick={() => setOpen(true)}
           >
             Add player
@@ -49,7 +49,7 @@ export default function Home() {
               className=" text-white  hover:bg-[#18181B] ml-5"
               size="medium"
               variant="contained"
-              sx={{ backgroundColorcolor: "#18181B" }}
+              sx={{ backgroundColor: "#18181B" }}
             >
               Start game
             </Button>
