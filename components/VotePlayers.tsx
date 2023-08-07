@@ -76,7 +76,8 @@ const VotePlayers = ({ players, name, setCurrIndex, handleVote }: Props) => {
           {error}
         </p>
         <Button
-          className="bg-[#18181B] text-white  hover:bg-[#18181B] mt-5 px-7"
+          className=" text-white  hover:bg-[#18181B] mt-5 px-7"
+          sx={{ backgroundColorcolor: "#18181B" }}
           size="medium"
           variant="contained"
           onClick={() => {
