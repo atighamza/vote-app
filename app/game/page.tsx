@@ -10,7 +10,7 @@ interface Vote {
   name: string;
   playerVoted: string[];
 }
-const page = () => {
+const Game = () => {
   const [players, setPlayers] = useState<string[]>([]);
   const [currPlayers, setCurrPlayers] = useState<string[]>([]);
   const [currIndex, setCurrIndex] = useState(0);
@@ -134,4 +134,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Game;
