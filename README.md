@@ -11,6 +11,15 @@ Welcome to the Werewolf Vote Secrecy Web App! This application is designed to en
  - The moderator view the list of votes and decide which player is eliminated and remove it from the list
  - vote again 
 
+### screenShots : 
+![image](https://github.com/atighamza/vote-app/assets/61515030/a0a7edcd-af40-4fde-8e99-4e3d211ae528)
+![image](https://github.com/atighamza/vote-app/assets/61515030/78db909f-8e00-4ea0-bbd4-b5482abcfc29)
+![image](https://github.com/atighamza/vote-app/assets/61515030/b2bdcc5e-1e1f-47ed-8bf7-e810e8aa08c9)
+![image](https://github.com/atighamza/vote-app/assets/61515030/b7dfa394-ce50-4105-9e06-0a5c3609137d)
+![image](https://github.com/atighamza/vote-app/assets/61515030/63699615-ad27-4e56-b573-5df708ec9a3e)
+
+
+
 
 ## Getting Started
 
@@ -26,7 +35,4 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
